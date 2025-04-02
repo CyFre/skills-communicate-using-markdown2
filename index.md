@@ -6,3 +6,7 @@
 
 ## Questa è l'immagine
 ![Immagine di prova ](https://octodex.github.com/images/yaktocat.pn)
+
+``` javascript
+var myVar = "Hello, world!";
+```

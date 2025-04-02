@@ -10,3 +10,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+Proviamo la task list:
+- [ ] primo
+- [ ] sec
+- [x] terz
+- [x] mosi
